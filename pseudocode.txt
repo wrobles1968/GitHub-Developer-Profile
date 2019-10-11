@@ -1,0 +1,8 @@
+What does our application do?
+
+
+1. The application will get my profile information from Git Hub
+a. How will the app know whose profile information to get?
+b. How will we actually get the information? 
+
+
